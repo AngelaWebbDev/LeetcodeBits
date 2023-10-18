@@ -4,6 +4,8 @@
  */
 
 /* NOTES:
+ * beats 79.85% for memory (39.7mb)
+ * 
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;

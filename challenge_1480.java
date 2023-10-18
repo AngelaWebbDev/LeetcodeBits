@@ -4,6 +4,10 @@
 * Return the running sum of nums.
 */
 
+/* NOTES:
+ * beats 100% for runtime (0ms)
+ */
+
 class Solution {
     public int[] runningSum(int[] nums) {
         for(int i=1;i<nums.length;i++){

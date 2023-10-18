@@ -4,6 +4,10 @@
 * Each letter in magazine can only be used once in ransomNote.
  */
 
+/* NOTES:
+ * beats 100% for runtime (0ms)
+ */
+
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int counter=0;

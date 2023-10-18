@@ -5,6 +5,10 @@
  * otherwise, you have to subtract 1 from it.
  */
 
+/* NOTES:
+ * beats 82.42% for memory (38.9mb)
+ */
+
 class Solution {
     public int numberOfSteps(int num) {
         int counter = 0;

@@ -5,6 +5,10 @@
  * Return the wealth that the richest customer has.
  */
 
+/* NOTES:
+ * beats 100% for runtime (0ms)
+ */
+
 class Solution {
     public int maximumWealth(int[][] accounts) {
     int richest = 0;
